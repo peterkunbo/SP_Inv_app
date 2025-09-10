@@ -1,0 +1,25 @@
+# SP_Inv - Geophysical Self-Potential Inversion Requirements
+# Core web framework
+streamlit>=1.28.0
+
+# Numerical computing
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Scientific computing
+scipy>=1.10.0
+
+# Machine learning / Deep learning
+torch>=2.0.0
+
+# Plotting and visualization
+matplotlib>=3.7.0
+plotly>=5.15.0
+
+# Optional: for better performance (uncomment if needed)
+# numba>=0.57.0
+
+# Development tools (optional, uncomment for development)
+# pytest>=7.4.0
+# black>=23.0.0
+# flake8>=6.0.0
